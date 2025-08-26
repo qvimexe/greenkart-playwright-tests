@@ -56,7 +56,8 @@
 ```bash
 green-kart-playwright-js/
 │── tests/
-│   └── greenkart.spec.js    # Основной тестовый сценарий
+│   ├── greenkart.spec.js    # Основной тестовый сценарий
+│   └── locators.js          # Локаторы для элементов
 │── package.json             # Зависимости и команды запуска
 │── playwright.config.js     # Конфигурация Playwright
 └── README.md                # Документация проекта
