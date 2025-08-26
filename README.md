@@ -33,7 +33,7 @@
 
 (команды вводить в консоль)
 
-1. Клонировать репозиторий: `git clone https://github.com/qvimexe/greenkart-playwright-tests.git`, `cd green-kart-playwright-js`
+1. Клонировать репозиторий: `git clone https://github.com/qvimexe/greenkart-playwright-tests.git`, `cd greenkart-playwright-tests`
 2. Установить зависимости: `npm install`
 3. Установить браузеры Playwright: `npx playwright install`
 
