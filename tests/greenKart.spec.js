@@ -1,5 +1,5 @@
 import { test, expect } from "@playwright/test";
-import { LOCATORS } from "./LOCATORS";
+import { LOCATORS } from "./locators";
 
 test("автоматизированное тестирование Junior+", async ({ page }) => {
   await page.goto("https://rahulshettyacademy.com/seleniumPractise/#/");
