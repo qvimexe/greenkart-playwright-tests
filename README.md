@@ -23,18 +23,18 @@
 ## Требования
 Перед началом убедитесь, что установлены:
 
-- [Node.JS]((https://nodejs.org/en/download/)) — фреймворк для end-to-end тестирования
+- [Node.js](https://nodejs.org/en/download/) — фреймворк для end-to-end тестирования
 - [npm](https://docs.npmjs.com/) — пакетный менеджер (устанавливается вместе с Node.js)
 - [Visual Studio Code](https://code.visualstudio.com/) (рекомендуется как IDE)
 - [Playwright](https://playwright.dev/) — фреймворк для end-to-end тестирования
 
-Проверить версии Node.JS, npm можно командами: `node -v`, `npm -v`
+Проверить версии Node.js, npm можно командами: `node -v`, `npm -v`
 
 ---
 
 ## Установка проекта
 
-# (команды вводить в консоль)
+(команды вводить в консоль)
 
 1. Клонировать репозиторий: `git clone https://github.com/<your-username>/green-kart-playwright-js.git`, `cd green-kart-playwright-js`
 2. Установить зависимости: `npm install`
