@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import { LOCATORS } from "./LOCATORS";
 
-test("автоматизированное тестирование (Junior+)", async ({ page }) => {
+test("автоматизированное тестирование Junior+", async ({ page }) => {
   await page.goto("https://rahulshettyacademy.com/seleniumPractise/#/");
 
   const searchInput = LOCATORS.searchInput(page);
